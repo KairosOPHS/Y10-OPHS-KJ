@@ -1,0 +1,13 @@
+#Variables
+
+name = "Kairos"
+#This is a varible
+#The variable is called "name"
+#The variable called name
+#contains some data
+
+print(name)
+
+
+
+
