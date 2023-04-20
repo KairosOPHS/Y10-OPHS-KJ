@@ -1,0 +1,26 @@
+#This is a comment
+#Variables VS Constants
+#Variables are declared in titlecase 
+#CONSTANTS ARE DECLARED IN CAPITALS
+
+#Example of variable
+
+Team1Name = "Kairos FC"
+Team2Name = "Man U"
+
+#Variables have a useful name 
+#Variables store a value(can change)
+#Variables can not start with a number
+#e.g. 1TeamName = "Man U"
+#This will cause a syntax error 
+
+#Variables can not have a space in the name
+#e.g. Team Name = "Man U"
+#This will be a syntax error
+
+#This is an example of a CONSTANT
+FREETHROW = 1
+TWOPOINTER = 2
+THREEPOINTER = 3
+
+#The values in a constant do NOT change
