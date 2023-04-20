@@ -1,0 +1,9 @@
+age = int(input("How old are you? "))
+
+if age >= 16:
+  print("you are old enough to drive in the UK")
+else:
+  print("You can't drive yet")
+
+
+
