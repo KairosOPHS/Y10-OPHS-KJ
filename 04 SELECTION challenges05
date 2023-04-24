@@ -1,0 +1,7 @@
+rain = input("Is it raining?")
+rain = str.lower(raining))
+if rain == "yes":
+  windy = input("Is it windy?")
+  
+  
+  ???
