@@ -1,0 +1,4 @@
+username=""
+while not username:
+  username= input("Please enter your username: ")
+  
