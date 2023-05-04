@@ -1,0 +1,17 @@
+total=0
+
+while total <=50:
+  print int(input("Enter number"))
+
+
+
+
+
+
+
+
+
+
+
+
+
