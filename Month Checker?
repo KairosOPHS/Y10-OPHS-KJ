@@ -1,0 +1,13 @@
+validmonth= False
+
+month="fake"
+while not validmonth:
+  month=int(input("Give the number of the current month"))
+
+  if month >=1 and month <=12:
+      print("True")
+      validmonth== True
+  else:
+    print("false")
+
+
