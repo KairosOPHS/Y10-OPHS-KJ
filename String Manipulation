@@ -1,0 +1,5 @@
+#len(word)- find the legnth of the variable called word
+#name-firstname+surname () Join the firstname and surname together without a space between them, this is know as concatenation
+#word.upper()- Changes the string into uppercase
+#word.lower()-Changes the srting into lowercase
+#word.title()- Changes a phrase so that every word has a captial letter beginning with the rest of the letters in t6he word in a lowercse (Title case)
