@@ -1,0 +1,6 @@
+name=str(input("What's your name"))
+if len(name)>5:
+  surname=str(input("And your surname"))
+  print(name,surname)
+else:
+  print(name)
