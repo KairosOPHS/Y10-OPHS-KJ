@@ -1,0 +1,8 @@
+num=int(input("Enter either: 1,2,3"))
+
+if num==1:
+  print("Thank You")
+elif num==2:
+  print("Well Done")
+else:
+  print("Error message")
